@@ -1,0 +1,2 @@
+# UploadedFairyWiki
+Personal webcomic wikipage.
